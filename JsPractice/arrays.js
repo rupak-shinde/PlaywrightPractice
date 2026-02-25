@@ -60,7 +60,7 @@ let test = ["admin","customer","seller","vendor"]
 let flag = test.includes("seller","Rupak");
 console.log(flag);
 
-// 10 firEach:
+// 10 forEach:
 let n = [1,2,3,4,5,6,7];
 n.forEach((e)=> {
     console.log(e*2);
